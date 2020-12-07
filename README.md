@@ -20,4 +20,4 @@ Our Linear Regression predicted the temperature with an accuracy of about 92% an
 
 The class readings and discussions played a very important role in my understanding of these topics (especially on Deep Neural Networks) and made it a lot easier to implement and comprehend the models.
 
-I Thank Professor Thayer for having accompanied us throughout the semester in those difficult times. 
+I thank Professor Thayer for making this class feel normal in this very abnormal semester. 
