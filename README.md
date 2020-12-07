@@ -14,6 +14,6 @@ The project contains 4 files :
 - getData.ipynb (I didn't want to use a pre-made dataset that I could find online (on Kaggle for example) so I used the online weather API to get my data) 
 - linearRegression.ipynb (We predict the temperature with a Linear Regression using the Scikit Learn Python Library) 
 - deepNeuralNetwork.ipynb (We predict the temperature with a deep Neural Network using the TensorFlow High Level API) 
-- extended_data.csv
+- extended_data.csv (this file contains the data we got from getData.ipynb if one does not want to run the script again, you can see in getData.ipynb why it's called "extended") 
 
 
