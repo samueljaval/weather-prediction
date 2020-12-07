@@ -10,7 +10,7 @@ My three areas of focus are :
 
 The main goal here was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network. We'll be answering this question from the perspective of someone with a good programming and computer science background but almost no data science experience. 
 
-The project contains 4 files (The .ipynb are thouroughly commented to help the reader understand what we are doing): 
+The project contains 4 files (The .ipynb are thoroughly commented to help the reader understand what we are doing): 
 - getData.ipynb (I didn't want to use a pre-made dataset that I could find online (on Kaggle for example) so I used the online weather API to get my data) 
 - linearRegression.ipynb (We predict the temperature with a Linear Regression using the Scikit Learn Python Library) 
 - deepNeuralNetwork.ipynb (We predict the temperature with a deep Neural Network using the TensorFlow High Level API) 
