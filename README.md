@@ -2,7 +2,7 @@
 
 This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
 
-Our project had to cover three areas of focus out of everything we studied throughout the semester. 
+Our project needed three areas of focus picked from everything we studied throughout the semester. 
 My three areas of focus are : 
 - Timeseries analysis 
 - Scikit Learn 
