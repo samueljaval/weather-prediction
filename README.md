@@ -9,14 +9,7 @@
     - https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/deepNeuralNetwork.ipynb
 
 ### The Project
-This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
-
-The three areas of focus for this project are : 
-- Timeseries analysis 
-- Scikit Learn 
-- TensorFlow 
-
-The main goal here was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network for a weather prediction model. 
+This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. The three areas of focus for this project are Timeseries analysis, Scikit Learn, and TensorFlow.The main goal of the project was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network for a weather prediction model. 
 
 ### Content
 The project contains 4 files: 
