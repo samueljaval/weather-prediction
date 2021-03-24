@@ -1,6 +1,6 @@
 # weather-prediction
 
-### Note : Every `.pynb` file is thoroughly commented to help the reader understand the thought process.
+### Note : Every `.ipynb` file is thoroughly commented to help the reader understand the thought process.
 ---
 
 ### The Project
