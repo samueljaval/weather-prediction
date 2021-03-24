@@ -10,7 +10,7 @@ The three areas of focus for this project are :
 - Scikit Learn 
 - TensorFlow 
 
-The main goal here was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network. 
+The main goal here was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network for a weather prediction model. 
 
 The project contains 4 files: 
 - getData.ipynb (I didn't want to use a pre-made dataset that I could find online - on Kaggle for example - so I used the online weather API to get my data) 
