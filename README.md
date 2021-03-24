@@ -1,5 +1,7 @@
 # weather-prediction
 
+### Every `.pynb` is **thoroughly** commented to Helo the reader understand the thought process.
+
 This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
 
 The three areas of focus for this project are : 
@@ -9,7 +11,7 @@ The three areas of focus for this project are :
 
 The main goal here was to show the pros and cons of implementing a simple Linear Regression or a Deep Neural Network. 
 
-The project contains 4 files (The .ipynb are thoroughly commented to help the reader understand what we are doing): 
+The project contains 4 files: 
 - getData.ipynb (I didn't want to use a pre-made dataset that I could find online - on Kaggle for example - so I used the online weather API to get my data) 
 - linearRegression.ipynb (the temperature is predicted with a Linear Regression using the Scikit Learn Python Library) 
 - deepNeuralNetwork.ipynb (the temperature is predicted with a deep Neural Network using the TensorFlow High Level API) 
