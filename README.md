@@ -1,10 +1,12 @@
 # weather-prediction
 
-### Note : Every `.ipynb` file is thoroughly commented to help the reader understand the thought process.
----
-https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/getData.ipynb
-https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/linearRegression.ipynb
-https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/deepNeuralNetwork.ipynb
+### Notes
+
+1. Every `.ipynb` file is **thoroughly** commented to help the reader understand the thought process.
+2. Github's IPython Notebook viewer is sometimes buggy so if you can't look at the files here, you can follow these links : 
+  - https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/getData.ipynb
+  - https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/linearRegression.ipynb
+  - https://colab.research.google.com/github/samueljaval/weather-prediction/blob/main/deepNeuralNetwork.ipynb
 
 ### The Project
 This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
