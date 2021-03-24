@@ -1,6 +1,6 @@
 # weather-prediction
 
-### Every `.pynb` file is **thoroughly** commented to Helo the reader understand the thought process.
+### Note : Every `.pynb` file is thoroughly commented to Helo the reader understand the thought process.
 
 This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
 
