@@ -2,7 +2,7 @@
 
 This project was made for the Scientific Computing Class (COMP260) at Wesleyan University. 
 
-The three areas of focus of this project are : 
+The three areas of focus for this project are : 
 - Timeseries analysis 
 - Scikit Learn 
 - TensorFlow 
