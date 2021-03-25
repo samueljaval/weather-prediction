@@ -24,5 +24,3 @@ This is where I collected the data to train my models later on. I didn't want to
 
 ## Results and Analysis
 The Linear Regression predicted the temperature with an accuracy of about 92% and the Deep Neural Network predicted with an accuracy of about 93%. The results are therefore relatively similar. After implementing both models I can say that implementing the Linear Regression is a little easier and it ran a lot faster than the Deep Neural Network (1 or 2 sec vs. a couple minutes). However, Deep Neural Networks are very powerfull and a full optimization by fine tunning every single parameter could potentially have led to a way better model than the Linear Regression. If I had the opportunity to improve this project I would conduct deeper research on how I can fine tune the parameters to get a better result from the deep neural network. I could maybe also try to implement another type of model from the TensorFlow Library that doesn't use the High Level API and would allow more control over what is going at a slighly lower level.
-
-I thank Professor Thayer for making this class feel normal in this very abnormal semester. 
